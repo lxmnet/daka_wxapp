@@ -1,7 +1,7 @@
 .dk_index_banner{
 	width: 100%;
 	height: 650rpx;
-	background: url(/images/IMG_0060.JPG);
+	background: url(https://raw.githubusercontent.com/lxmnet/daka_wxapp/master/images/IMG_0060.JPG);
 	background-size: cover;
 	display: flex;
 	flex-direction: column;

@@ -1,7 +1,7 @@
 .rule_banner{
 	width: 100%;
 	height: 240rpx;
-	background: url(/images/rule.png);
+	background: url(https://raw.githubusercontent.com/lxmnet/daka_wxapp/master/images/rule.png);
 	background-size: contain;
 	margin-bottom: 60rpx;
 }

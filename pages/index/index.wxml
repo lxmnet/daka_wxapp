@@ -3,19 +3,19 @@
 	<view class="dk_index_banner_num">500</view>
 	<view class="dk_index_banner_title sec">当前有<text>500</text>人参与打卡挑战</view>
 	<view class="dk_index_banner_user">
-		<image src="http://cdn.puasu.com/u01.jpg"></image>
-		<image src="http://cdn.puasu.com/u02.jpg"></image>
-		<image src="http://cdn.puasu.com/u03.jpg"></image>
-		<image src="http://cdn.puasu.com/u04.jpg"></image>
-		<image src="http://cdn.puasu.com/u01.jpg"></image>
-		<image src="http://cdn.puasu.com/u03.jpg"></image>
-		<image src="http://cdn.puasu.com/u02.jpg"></image>
-		<image src="http://cdn.puasu.com/u04.jpg"></image>
-		<image src="http://cdn.puasu.com/shenglue.png" class="dk_sheng"></image>
+		<image src="/images/u01.jpg"></image>
+		<image src="/images/u02.jpg"></image>
+		<image src="/images/u03.jpg"></image>
+		<image src="/images/u04.jpg"></image>
+		<image src="/images/u01.jpg"></image>
+		<image src="/images/u03.jpg"></image>
+		<image src="/images/u02.jpg"></image>
+		<image src="/images/u04.jpg"></image>
+		<image src="/images/shenglue.png" class="dk_sheng"></image>
 	</view>
 	<navigator url="/pages/rule/rule" hover-class="none" class="dk_index_banner_title foot">
 		挑战规则
-		<image src="http://cdn.puasu.com/next.png"></image>
+		<image src="/images/next.png"></image>
 	</navigator>
 </view>
 <button class="dk_btn">支付 1 元参与挑战</button>
@@ -27,19 +27,19 @@
 </view>
 <view class="dk_result_user">
 	<view class="dk_result_user_list">
-		<image src="http://cdn.puasu.com/u03.jpg"></image>
+		<image src="/images/u03.jpg"></image>
 		<view class="dk_result_user_logo dk_result_user_logo_1"><text>早起之星</text></view>
 		<view class="dk_result_user_name">龙大大</view>
 		<view class="dk_result_user_desc">05:00:05打卡</view>
 	</view>
 	<view class="dk_result_user_list">
-		<image src="http://cdn.puasu.com/u01.jpg"></image>
+		<image src="/images/u01.jpg"></image>
 		<view class="dk_result_user_logo dk_result_user_logo_2"><text>手气之星</text></view>
 		<view class="dk_result_user_name">笑笑</view>
 		<view class="dk_result_user_desc">75.86元</view>
 	</view>
 	<view class="dk_result_user_list">
-		<image src="http://cdn.puasu.com/u04.jpg"></image>
+		<image src="/images/u04.jpg"></image>
 		<view class="dk_result_user_logo dk_result_user_logo_3"><text>毅力之星</text></view>
 		<view class="dk_result_user_name">从前有座灵剑...</view>
 		<view class="dk_result_user_desc">连续72次</view>
